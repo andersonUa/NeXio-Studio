@@ -54,3 +54,19 @@ NeXio-Studio is a modern Flutter application created for interior designers, arc
 ---
 
 NeXio © Professional Design Solutions
+## Application Screenshots
+
+### Main Workspace
+![Main Workspace](photo_2026-06-16_17-08-32.jpg)
+
+### Project Management
+![Project Management](2.jpg)
+
+### Interior Planning
+![Interior Planning](3.jpg)
+
+### Drawing Tools
+![Drawing Tools](4.jpg)
+
+### Material & Budget Management
+![Material & Budget Management](5.jpg)
